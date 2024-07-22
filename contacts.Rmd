@@ -17,6 +17,7 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 &nbsp;  
 
 #### Research Team:  
+# changes 
 Dr Lorna M. Lopez, Maynooth University (Lead Investigator)  
 Dr Cathy Wyse, Maynooth University (Researcher)  
 Ms Aoife Brennan, Maynooth University (Research Assistant)  
