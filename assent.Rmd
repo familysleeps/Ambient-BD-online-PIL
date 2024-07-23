@@ -16,15 +16,6 @@ This is a big change
 If you agree to take part in this research study, please read, tick and sign below.
 &nbsp;
 
-```{r page1,fig.align='center', fig.width=10,echo=FALSE,out.width="87%"}
-knitr::include_graphics("images/assent1.png")
-```
-
-
-
-```{r page2,fig.align='center', fig.width=20,echo=FALSE, out.width="150%"}
-knitr::include_graphics("images/assent2.png")
-```
 
 
 
