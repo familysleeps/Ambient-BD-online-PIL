@@ -11,7 +11,7 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 
 <br><br> <!-- Add two line breaks -->
 
-##  Sample Consent Form for Parents or Caregiver of a Non-Autistic Child Seán Farrell was here Christiane O'Brien was here too
+##  Sample Consent Form for Parents or Caregiver of a Non-Autistic Child Seán Farrell was here Christiane O'Brien was here too AGAIN.
 
 
 &nbsp;  
